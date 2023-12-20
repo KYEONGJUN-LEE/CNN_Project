@@ -30,8 +30,8 @@ The dataset employed in this project is composed of Chest X-ray images. It carri
 
 <details>
 <summary>epochs</summary>
-<pre>
-<code>
+```
+
 Epoch 0/19
 ----------
 Loss: 80.3124 Acc: 0.5019
@@ -114,8 +114,7 @@ Loss: 0.4293 Acc: 0.8494
 
 Training complete in 3m 17s
 Best Acc: 0.888031
-</code>
-</pre>
+```
 </details>
 
 <details>
