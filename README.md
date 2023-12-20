@@ -29,8 +29,9 @@ The dataset employed in this project is composed of Chest X-ray images. It carri
 - The trained Chest X-ray classification model achieves high accuracy on the test dataset, demonstrating its effectiveness in accurately categorizing X-ray images of both healthy individuals and pneumonia patients.
 
 <details>
-    <summary> epochs </summary>
-```
+<summary>epochs</summary>
+<pre>
+<code>
 Epoch 0/19
 ----------
 Loss: 80.3124 Acc: 0.5019
@@ -113,14 +114,16 @@ Loss: 0.4293 Acc: 0.8494
 
 Training complete in 3m 17s
 Best Acc: 0.888031
-```
+</code>
+</pre>
 </details>
 
 <details>
-    <summary> Result Images </summary>
-<img width="429" alt="1" src="https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/8eddf7b2-34e5-4e43-a2f0-99af593c8724">
-<img width="427" alt="2" src="https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/11101a39-2aaa-4d30-86d6-12085debc0dc">
-<img width="340" alt="3" src="https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/a8874fec-a66d-46d3-9632-5188e173aa97">
+<summary>Result Images</summary>
+
+![Image 1](https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/8eddf7b2-34e5-4e43-a2f0-99af593c8724)
+![Image 2](https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/11101a39-2aaa-4d30-86d6-12085debc0dc)
+![Image 3](https://github.com/KYEONGJUN-LEE/CNN_Project/assets/113089467/a8874fec-a66d-46d3-9632-5188e173aa97)
 </details>
 
 ## Contributors
