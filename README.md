@@ -129,7 +129,7 @@ Best Acc: 0.888031
 
 ## Contributors
 
-- [KYEONGJUN-LEE]((https://github.com/KYEONGJUN-LEE))
+- [KYEONGJUN-LEE](https://github.com/KYEONGJUN-LEE)
 
 ## License
 
